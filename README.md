@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-## Game of Thrones themed Tic-Tac-Toe game: Create a two player Tic-Tac-Toe game. The users should be able to click to place their X or O and if they win the program should mention their win in the DOM. Please make the game as OOP as possible.
+Game of Thrones themed Tic-Tac-Toe game: Create a two player Tic-Tac-Toe game. The users should be able to click to place their X or O and if they win the program should mention their win in the DOM. Please make the game as OOP as possible.
 
 ![Screenshot 2023-04-02 at 10 12 47 PM](https://user-images.githubusercontent.com/76449195/229396210-fb5ee431-0eb5-43f4-8d72-818681a4a219.png)
 
